@@ -7,7 +7,7 @@
            2)npx tailwindcss init -p
 
            3) module.exports = {
-              content:["./src/**/*.{js,jsx}","./index.html"],
+              content:["./src/**/*.{js,jsx,ts,tsx}","./index.html"],
               theme: {
               extend: {},
                },
