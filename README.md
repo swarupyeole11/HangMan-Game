@@ -14,4 +14,7 @@
               plugins: [],
               }
 
-           4) Add this to the css file and import it into the App.jsx
+           4) Add this to the css file and import it into the App.jsx 
+              @tailwind base;
+              @tailwind components;
+              @tailwind utilities;
